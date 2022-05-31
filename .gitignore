@@ -1,0 +1,5 @@
+bin/
+.vs/
+obj/
+Properties/PublishProfiles/FolderProfile.pubxml.user
+WSLExecutor.csproj.user
